@@ -1,0 +1,85 @@
+
+
+/*Navbar*/
+
+.navbar-custom{
+    background-color:rgb(179, 179, 13, 0.7);
+
+/*Jumbotron*/    
+}
+.jumbotron-custom{
+    background-color:rgb(179, 179, 13);  
+}
+
+.modal-btn{
+    margin-top: 2vw;
+}
+
+/*Extra*/
+.custom-link{
+    font-weight: bold;
+    text-decoration : none;
+    color: black;
+    font-style:italic;
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+    float: none;
+}
+
+/*Form*/
+input {
+    width: 100%;
+}
+
+.form-horizontal .row{
+    margin-top:2vw;
+    margin-bottom:2vw;
+}
+
+#contact-id{
+    margin-bottom:2vw;
+}
+
+.form-check-input{
+    margin-left: -50%;
+    padding:1vw;
+}
+
+#contact-id legend{
+    padding-top: 1vw;
+}
+/*Progress bar*/
+.progress{
+    margin-bottom:3vw;
+}
+
+.progress-text{
+    text-align:center;
+    margin-bottom:2vw;
+}
+
+
+/*location*/
+
+#donde {
+    margin-bottom:2vw;
+    background-color: rgb(179, 179, 13) !important;
+}
+
+.custom-table{
+    margin-top:8vw;
+}
+
+/*card deck*/
+
+.card-deck{
+    margin-left:5vw;
+    margin-right:5vw;
+    margin-bottom:2vw;
+}
+
+
+
